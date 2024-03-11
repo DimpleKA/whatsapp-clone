@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+navbar :-   #f0f2f5
+
+
+
 # testing
 /coverage
 
