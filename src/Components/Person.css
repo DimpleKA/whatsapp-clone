@@ -1,0 +1,22 @@
+.person{
+    display: flex;
+    width: 100%;
+}
+.person-left{
+
+}
+
+.person-left img{
+    height:50px;
+    border-radius: 50px;
+}
+.person-right{
+padding-left: 10px;
+}
+.person-right-top{
+display: flex;
+justify-content: space-between;
+}
+.person-right-top{
+
+}

@@ -1,4 +1,36 @@
 .rightnavtop{
     background: #f0f2f5;
     height: 10vh;
+    display: flex;
+}
+
+.rightnavtop-left{
+display: flex;
+align-items: center;
+width: 4%;
+padding: 20px;
+}
+
+.rightnavtop-left img{
+   height: 50px;
+   width: 40px;
+   border-radius: 50px;
+    }
+
+
+.rightnavtop-center{
+    display: flex;
+    align-items: center;
+    width: 76%;
+}
+
+.rightnavtop-right{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 20%;
+}
+
+.rightnavtop-right div{
+   color: #54656f;
 }

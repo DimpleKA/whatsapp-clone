@@ -3,3 +3,37 @@
     height: 10vh;
     bottom:0;
 }
+.rightnavbotttom{
+    display: flex;
+}
+.rightnavbotttom-left{
+display: flex;
+align-items: center;
+justify-content: center;
+width: 5%;
+}
+.rightnavbotttom-center{
+display: flex;
+align-items: center;
+width: 88%;
+}
+
+.rightnavbotttom-center input{
+    width: 97%;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    }
+
+
+
+.rightnavbotttom-right{
+display: flex;
+align-items: center;
+width: 7%;
+}
+
+.rightnavbotttom-right div{
+  color:#54656f ;
+    }

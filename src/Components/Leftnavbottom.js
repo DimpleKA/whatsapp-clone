@@ -1,9 +1,12 @@
 import React from 'react'
 import './Leftnavbottom.css'
+import Person from './Person'
 
 const Leftnavbottom = () => {
   return (
-    <div>Leftnavbottom</div>
+    <div className='leftnavbottom'>
+        <Person/>
+    </div>
   )
 }
 
