@@ -1,3 +1,20 @@
 .leftnavbottom{
     height: 82vh;
+    
+        max-height: 600px; /* Set a maximum height for the container */
+        overflow-y: auto; /* Add vertical scrollbar when content overflows */
 }
+
+/* Customizing the scrollbar */
+.leftnavbottom::-webkit-scrollbar {
+    width: 6px; /* Set the width of the scrollbar */
+  }
+  
+  .leftnavbottom::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Set the background color of the scrollbar track */
+  }
+  
+  .leftnavbottom::-webkit-scrollbar-thumb {
+    background-color: #ced0d1; /* Set the color of the scrollbar thumb */
+    border-radius: 10px; /* Set the radius of the scrollbar thumb */
+  }

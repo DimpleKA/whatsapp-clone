@@ -6,6 +6,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+ICON COLOR   #54656f
+
+left top nav border color #d1d7db
+
+new messgae green    #25d366
+
+person selected  hoever  #f0f2f5
+
+scrollbar  #ced0d1
+
+left middle search bar  #f0f2f5
+
+send message color  #d9fdd3
+
+time color in messge right #7a7781
+
 ### `npm start`
 
 Runs the app in the development mode.\

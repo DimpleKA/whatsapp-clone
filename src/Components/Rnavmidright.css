@@ -1,0 +1,11 @@
+.rightnavmiddle-right{
+    height: 15%;
+    width: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+
+}
+.rightnavmiddle-right-container{
+    background: #d9fdd3;
+}

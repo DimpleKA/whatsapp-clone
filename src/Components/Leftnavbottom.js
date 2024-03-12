@@ -6,6 +6,17 @@ const Leftnavbottom = () => {
   return (
     <div className='leftnavbottom'>
         <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
+        <Person/>
     </div>
   )
 }

@@ -1,0 +1,21 @@
+.rightnavmiddle-left{
+    height: 15%;
+    width: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+.rightnavmiddle-left-container{
+    background: white;
+    padding: 5px;
+    margin-left: 40px;
+    border-radius: 10px;
+
+}
+.rightnavmiddle-left-time{
+    display: flex;
+    justify-content: right;
+    color: #7a7781;
+
+}
