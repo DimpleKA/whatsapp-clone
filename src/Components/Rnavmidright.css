@@ -8,4 +8,12 @@
 }
 .rightnavmiddle-right-container{
     background: #d9fdd3;
+    margin-right: 40px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.rightnavmiddle-right-time{
+    display: flex;
+    justify-content: right;
+    color: #7a7781;
 }

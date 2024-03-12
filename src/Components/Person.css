@@ -8,6 +8,8 @@
 }
 .person-left{
     width:15%;
+    display: flex;
+    align-items: center;
 }
 
 .person-left img{
@@ -26,7 +28,12 @@ align-items: center;
 .person-right-top{
 display: flex;
 justify-content: space-between;
-color:#7a7781 ;
+}
+.person-right-top-name{
+    font-size: large;
+}
+.person-right-top-date{
+    color:#7a7781;
 }
 .person-right-bottom{
 display: flex;

@@ -1,3 +1,21 @@
 .leftnavmid{
     height: 8vh;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.leftnavmid-input input{
+    height: 25px;
+    border: none;
+    outline: none;
+    background:#f0f2f5;
+    color: #667781;
+    width: 300px;
+    border-radius: 20px;
+    padding: 5px;
+}
+.leftnavmid-logo-pyramid{
+color:#a4b0b7 ;
+padding-left: 20px;
 }
